@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Cola Polar",
+      "price": 8
+    },
+    {
+      "id": 3,
+      "name": "Borracha Faber Castel",
+      "price": 0.5
+    },
+    {
+      "name": "Nintendo Switch",
+      "price": "1899",
+      "id": 5
+    },
+    {
+      "name": "Geladeira",
+      "price": "15000",
+      "id": 6
+    },
+    {
+      "name": "tenis",
+      "price": "359",
+      "id": 7
+    }
+  ]
+}
